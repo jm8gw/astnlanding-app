@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/astnlanding-app/static/css/main.f855e6bc.css",
+    "main.js": "/astnlanding-app/static/js/main.ea1101a8.js",
+    "static/js/787.b67cebbb.chunk.js": "/astnlanding-app/static/js/787.b67cebbb.chunk.js",
+    "index.html": "/astnlanding-app/index.html",
+    "static/media/logo.svg": "/astnlanding-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.f855e6bc.css.map": "/astnlanding-app/static/css/main.f855e6bc.css.map",
+    "main.ea1101a8.js.map": "/astnlanding-app/static/js/main.ea1101a8.js.map",
+    "787.b67cebbb.chunk.js.map": "/astnlanding-app/static/js/787.b67cebbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ea1101a8.js"
+  ]
+}
